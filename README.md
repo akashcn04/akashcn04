@@ -1,4 +1,5 @@
-## Hi there 👋 , It's AKASH C N
+##               Hi there 👋 , It's AKASH C N
+##  A passionate Computer Science Student , Inevitably Coder
 
 <!--
 **akashcn04/akashcn04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
