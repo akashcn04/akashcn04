@@ -1,4 +1,4 @@
-## -----------------Hi there 👋 , It's AKASH C N
+##           Hi there 👋 , It's AKASH C N
 ##  A passionate Computer Science Student , Away from Bugs...
 
 <!--
