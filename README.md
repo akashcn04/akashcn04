@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashcn04&label=Profile%20views&color=0e75b6&style=flat" alt="akashcn04" /> </p>
 
+
+<a href='https://github.com/samadpls/Programing-Gifs'>
+<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+
+
 - 🔭 I’m currently Studying in **PES UNIVERSITY [3rd year Student]**
 
 - 🌱 I’m currently learning **MERN,FLASK,DOCKER**
