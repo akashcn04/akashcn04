@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akashnyamagoud45@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Tdh9eRRIdqVvfIXmqxO0PystwVAWYtcf/view?usp=drive_link](https://drive.google.com/file/d/1Tdh9eRRIdqVvfIXmqxO0PystwVAWYtcf/view?usp=drive_link)
+- 📄 Know about my experiences [https://tinyurl.com/MYresumeAkash](https://drive.google.com/file/d/1Tdh9eRRIdqVvfIXmqxO0PystwVAWYtcf/view?usp=drive_link)
 
 - ⚡ Fun fact **Running Away from "BUGS"**
 
