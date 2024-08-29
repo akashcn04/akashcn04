@@ -34,5 +34,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashcn04&show_icons=true&locale=en&layout=compact" alt="akashcn04" /></p>
 
--LEET CODE STATS
+-LEET CODE STATS <br>
 ![](https://leetcard.jacoblin.cool/akashcn04?theme=unicorn)
