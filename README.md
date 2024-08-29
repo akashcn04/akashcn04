@@ -5,7 +5,7 @@
 
 
 <a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='[https://programming-gifs.cyclic.app](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJpbWxienhzZHN2c3B5YWxlODNkZm43dXByOGg0NWdhZmcwaHY1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+<img align='right' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJpbWxienhzZHN2c3B5YWxlODNkZm43dXByOGg0NWdhZmcwaHY1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
 
 
 - 🔭 I’m currently Studying in **PES UNIVERSITY [3rd year Student]**
