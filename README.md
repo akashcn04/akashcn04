@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://tinyurl.com/MYresumeAkash](https://drive.google.com/file/d/1Tdh9eRRIdqVvfIXmqxO0PystwVAWYtcf/view?usp=drive_link)
 
-- ⚡ Fun fact ** : Trying to clear "BUGS" in My Career**
+- ⚡ Fun fact :**Trying to clear "BUGS" in My Career**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
