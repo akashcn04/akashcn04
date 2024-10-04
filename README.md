@@ -18,9 +18,9 @@
 
 - 📄 Know about my experiences [https://tinyurl.com/MYresumeAkash](https://drive.google.com/file/d/1Tdh9eRRIdqVvfIXmqxO0PystwVAWYtcf/view?usp=drive_link)
 
-MY PORTFOLIO @
-<a href="https://akashcnportfolio.netlify.app/
-" target="blank"><i class="fa-solid fa-link"></i> </a>
+- MY PORTFOLIO @
+ <a   href="https://akashcnportfolio.netlify.app/
+" target="blank"> here </a>
 
 - ⚡ Fun fact :**Trying to clear "BUGS" in My Career**
 
